@@ -1,0 +1,8 @@
+#!/usr/bin/kate
+import mklib_vtkimage
+import mklib_vtkpolydata_visualization
+import mklib_vtkpolydata_sources
+import mklib_vtkpolydata_io
+import mklib_vtkpolydata_utils
+import mklib_vtkrendering
+import mklib_vtktrianglestrip
