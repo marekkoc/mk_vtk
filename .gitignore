@@ -1,6 +1,6 @@
 
 # mk 
-*.backup # np. readme.md.backup
+*.md.backup # np. readme.md.backup
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
